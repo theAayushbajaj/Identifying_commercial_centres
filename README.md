@@ -24,7 +24,7 @@ POI data refers to the coordinates (latitudes and longitudes) of any physical en
 * `requirements.txt` contains all the dependencies (python modules) required to run this project.
 
 ## Running the project
-* Clone this repository by typing following command on the terminal: `git clone https://github.com/vibhor98/Identify-Commercial-Centers.git`.
+* Clone this repository by typing following command on the terminal: `git clone https://github.com/theAayushbajaj/Identifying_commercial_centres.git`.
 
 * Run: **pip install requirements.txt** to install all the required dependencies.
 
