@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+overpy
+pyshp
+seaborn
+scikit-lean
+
